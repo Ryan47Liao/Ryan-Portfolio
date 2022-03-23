@@ -1,7 +1,7 @@
 ## Welcome to Ryan Liao's Portfolio
 This page is dedicated to archive my data science projects 
 
-### [Project 1：Yelp's recommendation system] (https://ryan47liao.github.io/Ryan-Portfolio/)
+### [Project 1：Yelp's recommendation system](https://ryan47liao.github.io/Ryan-Portfolio/)
 - Built databases and environments on remote servers using Hadoop through Ubuntu to facilitate teamwork
 - Reprogrammed feature engineering pipeline through NumPy vectorization and programming techniques to
 not only boost total running time by 5 times but also solved memory overflow issues due to huge dataset
