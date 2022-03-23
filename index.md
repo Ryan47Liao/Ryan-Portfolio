@@ -14,10 +14,37 @@ markdown Syntax highlighted code block
 
 Something extrodinary!
 ```
-### Tab2
+### [Project 2: Divvy bike dock balancing analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+- Converted structured travel history into graphs and generated network graphs using Networkx, visualized user
+travel patterns to identify potential communities suffering from bike balancing problems, and pinpoint top
+stations by calculating node centrality
+- Mapped station-ID to Neighborhood-ID based on coordinates collected from Google geo-encoding API, thus
+connecting with originally disconnected relational databases and reducing dimension by over 80%
+- Created new features that keep track of all dock’s capacity by simulating over travel history data, visualizing
+each station’s dock availability which directly addresses the capacity imbalance problem
+- Performed clustering on each station’s dock capacity trend using k-means, leading to insights that generated
+client-ready visualization and solution that has an NPV equivalent to 36% annual revenue in the estimate
 
-place holder for sth great 
 
-### Tab3
+```
+markdown Syntax highlighted code block
 
-place holder for sth exciting
+Something extrodinary!
+```
+
+### [Project 3: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
+- Collected streaming data from social media using python sockets, API requests, selenium, and beautiful soup
+to build a database to explore correlation with Bitcoin prices
+- Cleaned bot-generated data by first manually tagging tweets through shared patterns, then cluster tweets using
+k-means to bulk identify, eventually increasing tweet subjectivity by over 40%
+- Performed sentimental analysis on social media activities along with the tweet volume, transaction volume,
+and google search trends to build models which predict Bitcoin price fluctuations with an R-square of 0.93
+- Constructed server and client that handles streaming data of Bitcoin prices and tweeter, predicts future price
+and generates trading signals in real-time that out-performs baseline algorithm in backtesting by over 2000%
+
+
+```
+markdown Syntax highlighted code block
+
+Something extrodinary!
+```
