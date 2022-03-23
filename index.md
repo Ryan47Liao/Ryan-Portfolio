@@ -8,8 +8,9 @@ not only boost total running time by 5 times but also solved memory overflow iss
 - Conducted time series analysis using Facebook Prophet, broke down review trend by its seasonality, and
 guided the generation of time-related features
 - Implemented a content-based collaborative filtering recommendation engine that has an NDCG of 0.92
-```markdown
-Syntax highlighted code block
+
+```
+markdown Syntax highlighted code block
 
 Something extrodinary!
 ```
