@@ -25,7 +25,9 @@ each station’s dock availability which directly addresses the capacity imbalan
 - Performed clustering on each station’s dock capacity trend using k-means, leading to insights that generated
 client-ready visualization and solution that has an NPV equivalent to 36% annual revenue in the estimate
 
+![Graph](https://github.com/Ryan47Liao/Demo/blob/main/graph_viz.GIF)
 
+![Farmers Market Finder Demo](https://github.com/Ryan47Liao/Demo/blob/main/Capacity_Animated.png)
 ```
 markdown Syntax highlighted code block
 
@@ -41,6 +43,7 @@ k-means to bulk identify, eventually increasing tweet subjectivity by over 40%
 and google search trends to build models which predict Bitcoin price fluctuations with an R-square of 0.93
 - Constructed server and client that handles streaming data of Bitcoin prices and tweeter, predicts future price
 and generates trading signals in real-time that out-performs baseline algorithm in backtesting by over 2000%
+![image](https://user-images.githubusercontent.com/62736640/160002223-74db0d21-b0a9-46ee-8ead-fd975c1da1f0.png)
 
 
 ```
