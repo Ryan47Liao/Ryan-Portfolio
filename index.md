@@ -37,4 +37,4 @@ and google search trends to build models which predict Bitcoin price fluctuation
 - Constructed server and client that handles streaming data of Bitcoin prices and tweeter, predicts future price
 and generates trading signals in real-time that out-performs baseline algorithm in backtesting by over 2000%
 ![image](https://user-images.githubusercontent.com/62736640/160002223-74db0d21-b0a9-46ee-8ead-fd975c1da1f0.png)
-
+![backtesting](https://github.com/Ryan47Liao/Demo/blob/main/Backtesting.png)
