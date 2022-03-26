@@ -27,7 +27,7 @@ client-ready visualization and solution that has an NPV equivalent to 36% annual
 
 ![Graph](https://github.com/Ryan47Liao/Demo/blob/main/graph_viz.GIF)
 
-![Farmers Market Finder Demo](https://github.com/Ryan47Liao/Demo/blob/main/Capacity_Animated.png)
+![Capacity change over time](https://github.com/Ryan47Liao/Demo/blob/main/CAP.gif)
 ```
 markdown Syntax highlighted code block
 
