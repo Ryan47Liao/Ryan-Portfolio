@@ -25,7 +25,7 @@ each station’s dock availability which directly addresses the capacity imbalan
 - Performed clustering on each station’s dock capacity trend using k-means, leading to insights that generated
 client-ready visualization and solution that has an NPV equivalent to 36% annual revenue in the estimate
 
-![Graph](https://github.com/Ryan47Liao/Demo/blob/main/graph_viz.GIF)
+![Graph](https://github.com/Ryan47Liao/Demo/blob/main/GRAPH.gif)
 
 ![Capacity change over time](https://github.com/Ryan47Liao/Demo/blob/main/CAP.gif)
 ```
