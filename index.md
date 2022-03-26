@@ -1,7 +1,8 @@
 ## Welcome to Ryan Liao's Portfolio
-This page is dedicated to archive my data science projects 
+This page is dedicated to archive my recent data science projects 
 
 ### [Project 1：Yelp's recommendation system](https://github.com/Ryan47Liao/Yelp-Recommendation-System)
+  Chicago, IL Jan 2022 –> Apr 2022
 - Built databases and environments on remote servers using Hadoop through Ubuntu to facilitate teamwork
 - Reprogrammed feature engineering pipeline through NumPy vectorization and programming techniques to
 not only boost total running time by 5 times but also solved memory overflow issues due to huge dataset
@@ -12,6 +13,7 @@ guided the generation of time-related features
 ![Database](https://github.com/Ryan47Liao/Demo/blob/main/RCC.png)
 
 ### [Project 2: Divvy bike dock balancing analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+  Chicago, IL Jan 2022 –> Apr 2022
 - Converted structured travel history into graphs and generated network graphs using Networkx, visualized user
 travel patterns to identify potential communities suffering from bike balancing problems, and pinpoint top
 stations by calculating node centrality
@@ -28,6 +30,7 @@ client-ready visualization and solution that has an NPV equivalent to 36% annual
 
 
 ### [Project 3: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
+  Chicago, IL Jan 2022 –> Apr 2022
 - Collected streaming data from social media using python sockets, API requests, selenium, and beautiful soup
 to build a database to explore correlation with Bitcoin prices
 - Cleaned bot-generated data by first manually tagging tweets through shared patterns, then cluster tweets using
