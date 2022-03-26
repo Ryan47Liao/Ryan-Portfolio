@@ -9,8 +9,8 @@ not only boost total running time by 5 times but also solved memory overflow iss
 - Conducted time series analysis using Facebook Prophet, broke down review trend by its seasonality, and
 guided the generation of time-related features
 - Implemented a content-based collaborative filtering recommendation engine that has an NDCG of 0.92
-![Yelp workflow](https://github.com/Ryan47Liao/Demo/blob/main/Yelp.png)
-![Database](https://github.com/Ryan47Liao/Demo/blob/main/RCC.png)
+![Yelp workflow](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Yelp.png)
+![Database](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/RCC.png)
 
 ### [Project 2: Divvy bike dock balancing analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL Jan 2022 –> Apr 2022
@@ -24,9 +24,9 @@ each station’s dock availability which directly addresses the capacity imbalan
 - Performed clustering on each station’s dock capacity trend using k-means, leading to insights that generated
 client-ready visualization and solution that has an NPV equivalent to 36% annual revenue in the estimate
 
-![Graph](https://github.com/Ryan47Liao/Demo/blob/main/GRAPH.gif)
+![Graph](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/GRAPH.gif)
 
-![Capacity change over time](https://github.com/Ryan47Liao/Demo/blob/main/CAP.gif)
+![Capacity change over time](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/CAP.gif)
 
 
 ### [Project 3: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
@@ -40,4 +40,4 @@ and google search trends to build models which predict Bitcoin price fluctuation
 - Constructed server and client that handles streaming data of Bitcoin prices and tweeter, predicts future price
 and generates trading signals in real-time that out-performs baseline algorithm in backtesting by over 2000%
 ![image](https://user-images.githubusercontent.com/62736640/160002223-74db0d21-b0a9-46ee-8ead-fd975c1da1f0.png)
-![backtesting](https://github.com/Ryan47Liao/Demo/blob/main/Backtesting.png)
+![backtesting](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Backtesting.png)
