@@ -10,11 +10,7 @@ guided the generation of time-related features
 - Implemented a content-based collaborative filtering recommendation engine that has an NDCG of 0.92
 ![Yelp workflow](https://github.com/Ryan47Liao/Demo/blob/main/Yelp.png)
 ![Database](https://github.com/Ryan47Liao/Demo/blob/main/RCC.png)
-```
-markdown Syntax highlighted code block
 
-Something extrodinary!
-```
 ### [Project 2: Divvy bike dock balancing analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
 - Converted structured travel history into graphs and generated network graphs using Networkx, visualized user
 travel patterns to identify potential communities suffering from bike balancing problems, and pinpoint top
@@ -29,11 +25,7 @@ client-ready visualization and solution that has an NPV equivalent to 36% annual
 ![Graph](https://github.com/Ryan47Liao/Demo/blob/main/GRAPH.gif)
 
 ![Capacity change over time](https://github.com/Ryan47Liao/Demo/blob/main/CAP.gif)
-```
-markdown Syntax highlighted code block
 
-Something extrodinary!
-```
 
 ### [Project 3: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
 - Collected streaming data from social media using python sockets, API requests, selenium, and beautiful soup
@@ -46,9 +38,3 @@ and google search trends to build models which predict Bitcoin price fluctuation
 and generates trading signals in real-time that out-performs baseline algorithm in backtesting by over 2000%
 ![image](https://user-images.githubusercontent.com/62736640/160002223-74db0d21-b0a9-46ee-8ead-fd975c1da1f0.png)
 
-
-```
-markdown Syntax highlighted code block
-
-Something extrodinary!
-```
