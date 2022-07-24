@@ -1,18 +1,17 @@
 ## Welcome to Ryan Liao's Portfolio
-This page is dedicated to archive my recent data science projects 
+### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+  Chicago, IL July 2022 –> Now
+![blueprint](https://github.com/Ryan47Liao/Demo/blob/main/divvy_rtis_bluePrint.png)
 
-### [Project 1：Yelp's recommendation system](https://github.com/Ryan47Liao/Yelp-Recommendation-System)
-  Chicago, IL Jan 2022 –> Apr 2022
-- Built databases and environments on remote servers using Hadoop through Ubuntu to facilitate teamwork
-- Reprogrammed feature engineering pipeline through NumPy vectorization and programming techniques to
-not only boost total running time by 5 times but also solved memory overflow issues due to huge dataset
-- Conducted time series analysis using Facebook Prophet, broke down review trend by its seasonality, and
-guided the generation of time-related features
-- Implemented a content-based collaborative filtering recommendation engine that has an NDCG of 0.92
-![Yelp workflow](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Yelp.png)
-![Database](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/RCC.png)
+### [Project 2: EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+  Chicago, IL Apr 2022 –> June 2022
 
-### [Project 2: Divvy bike dock balancing analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+![data_meta](https://github.com/Ryan47Liao/Demo/blob/main/EVE_data_info.png)
+
+### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+  Chicago, IL Apr 2022 –> June 2022
+
+### [Project 4: Divvy bike #1: Dock Balancing Analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL Jan 2022 –> Apr 2022
 - Converted structured travel history into graphs and generated network graphs using Networkx, visualized user
 travel patterns to identify potential communities suffering from bike balancing problems, and pinpoint top
@@ -28,8 +27,18 @@ client-ready visualization and solution that has an NPV equivalent to 36% annual
 
 ![Capacity change over time](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/CAP.gif)
 
+### [Project 5：Yelp's recommendation system](https://github.com/Ryan47Liao/Yelp-Recommendation-System)
+  Chicago, IL Jan 2022 –> Apr 2022
+- Built databases and environments on remote servers using Hadoop through Ubuntu to facilitate teamwork
+- Reprogrammed feature engineering pipeline through NumPy vectorization and programming techniques to
+not only boost total running time by 5 times but also solved memory overflow issues due to huge dataset
+- Conducted time series analysis using Facebook Prophet, broke down review trend by its seasonality, and
+guided the generation of time-related features
+- Implemented a content-based collaborative filtering recommendation engine that has an NDCG of 0.92
+![Yelp workflow](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Yelp.png)
+![Database](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/RCC.png)
 
-### [Project 3: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
+### [Project 6: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
   Chicago, IL Jan 2022 –> Apr 2022
 - Collected streaming data from social media using python sockets, API requests, selenium, and beautiful soup
 to build a database to explore correlation with Bitcoin prices
