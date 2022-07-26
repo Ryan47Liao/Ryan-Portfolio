@@ -1,6 +1,6 @@
 ## Welcome to Ryan Liao's Portfolio
 ### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy_Time_Series)
-  Chicago, IL July 2022 –> Now
+  Chicago, IL July 2022 –> Now (In Progress)
  
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/divvy_rtis_bluePrint.png)
 
