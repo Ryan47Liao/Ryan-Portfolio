@@ -15,7 +15,7 @@
 
 ![data_eng](https://github.com/Ryan47Liao/Demo/blob/main/data%20eng.png)
 
-### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022
  - Conduct thorough time series EDA on its trend, intervention, outliers, stationarity, seasonality, and forecastability to guide and engineer data for better model performance
 - Cluster panel data across over 1000 stations and 5 years into 2 clusters using K-means to distinguish stations that were impacted by Covid to be modeled separately.
