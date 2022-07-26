@@ -1,5 +1,5 @@
 ## Welcome to Ryan Liao's Portfolio
-### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL July 2022 –> Now
  
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/divvy_rtis_bluePrint.png)
