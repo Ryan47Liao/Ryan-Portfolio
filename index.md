@@ -1,5 +1,5 @@
 ## Welcome to Ryan Liao's Portfolio
-### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy_Time_Series)
+### Project 1: Divvy bike #3: Real Time Intellegence System
 Chicago, IL July 2022 –> Now (In Progress)   
      
 Taking the divvy-dock-balancing challenge to the next level. Leverage the power of AWS SageMaker to deliver real-time solutions to Divvy's biggest challenge.   
