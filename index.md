@@ -2,7 +2,7 @@
 ### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL July 2022 –> Now
  
-![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/divvy_rtis_bluePrint.png)
+![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/divvy_rtis_bluePrint.png)
 
 ### [Project 2: EVE-Online BigData Project](https://raw.githubusercontent.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL Apr 2022 –> June 2022    
@@ -12,9 +12,9 @@
 - Leverage both Big Query and PySpark to flatten NoSQL data into structured ones and engineer new features by joining multiple tables
 - Built model pipelines that clean, cross-validate, and tune hyperparameters to predict warfare outcomes using PySpark MLlib
 
-![data_meta](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/EVE_data_info.png)
+![data_meta](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/EVE_data_info.png)
 
-![data_eng](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/data%20eng.png)
+![data_eng](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/data%20eng.png)
 
 ### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022   
@@ -24,11 +24,11 @@
 - Map station-ID to Neighborhood-ID based on coordinates collected from Google geo-encoding API, thus connecting with originally disconnected tables and aggregating horizontally to increase data forecastability
 - Forecast station traffic and dock availability using an ensembled model of VARMA and frequency-based multi-seasonal SARIMA in real-time to guide the maintenance intervention ahead of time to prevent station overload
 
-![TBASTS](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/TBASTS.png)
+![TBASTS](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/TBASTS.png)
 
-![Covid Impact](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/Clustering_based_EDA.png)
+![Covid Impact](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Clustering_based_EDA.png)
 
-![InterventionModel](https://raw.githubusercontent.com/Ryan47Liao/Demo/blob/main/Intervention_modeling.png)
+![InterventionModel](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Intervention_modeling.png)
 
 
 ### [Project 4: Divvy bike #1: Dock Balancing Analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
