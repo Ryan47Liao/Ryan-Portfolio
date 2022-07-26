@@ -1,6 +1,7 @@
 ## Welcome to Ryan Liao's Portfolio
 ### [Project 1: Divvy bike #3: Real Time Intellegence System](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL July 2022 –> Now
+ 
 ![blueprint](https://github.com/Ryan47Liao/Demo/blob/main/divvy_rtis_bluePrint.png)
 
 ### [Project 2: EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
@@ -9,7 +10,9 @@
 - Optimize ETL data pipelines through multiprocessing to speed the entire preprocessing process by over 99%
 - Leverage both Big Query and PySpark to flatten NoSQL data into structured ones and engineer new features by joining multiple tables
 - Built model pipelines that clean, cross-validate, and tune hyperparameters to predict warfare outcomes using PySpark MLlib
+
 ![data_meta](https://github.com/Ryan47Liao/Demo/blob/main/EVE_data_info.png)
+
 ![data_eng](https://github.com/Ryan47Liao/Demo/blob/main/data%20eng.png)
 
 ### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
@@ -18,8 +21,11 @@
 - Cluster panel data across over 1000 stations and 5 years into 2 clusters using K-means to distinguish stations that were impacted by Covid to be modeled separately.
 - Map station-ID to Neighborhood-ID based on coordinates collected from Google geo-encoding API, thus connecting with originally disconnected tables and aggregating horizontally to increase data forecastability
 - Forecast station traffic and dock availability using an ensembled model of VARMA and frequency-based multi-seasonal SARIMA in real-time to guide the maintenance intervention ahead of time to prevent station overload
+
 ![TBASTS](https://github.com/Ryan47Liao/Demo/blob/main/TBASTS.png)
+
 ![Covid Impact](https://github.com/Ryan47Liao/Demo/blob/main/Clustering_based_EDA.png)
+
 ![InterventionModel](https://github.com/Ryan47Liao/Demo/blob/main/Intervention_modeling.png)
 
 ### [Project 4: Divvy bike #1: Dock Balancing Analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
