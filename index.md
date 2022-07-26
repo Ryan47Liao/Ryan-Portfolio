@@ -6,7 +6,7 @@ Taking the divvy-dock-balancing challenge to the next level. Leverage the power 
 
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/divvy_rtis_bluePrint.png)
 
-### [Project 2: EVE-Online BigData Project](https://raw.githubusercontent.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+### [Project 2: EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022    
 [Get this Data on Kaggle](https://www.kaggle.com/datasets/leonidasliao/eveonline-tradingwar) 
 - Create databases on Hadoop, and Google Storage that contains over 200Gs of data to be analyzed on PySpark through virtual machine clusters on Google Dataproc
