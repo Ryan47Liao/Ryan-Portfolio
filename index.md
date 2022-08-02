@@ -4,7 +4,7 @@ Chicago, IL July 2022 –> Now (In Progress)
      
 Taking the divvy-dock-balancing challenge to the next level. Leverage the power of AWS SageMaker to deliver real-time solutions to Divvy's biggest challenge.   
 
-![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/divvy_rtis_bluePrint.png)
+![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Divvy%20RTIS%20BluePrint.png)
 
 ### [Project 2: EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022    
