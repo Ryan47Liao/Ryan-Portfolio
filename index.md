@@ -6,8 +6,9 @@ Taking the divvy-dock-balancing challenge to the next level. Leverage the power 
 
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Divvy%20RTIS%20BluePrint.png)
 
-### OpenFiGi ETL Pipeline
-Chicago, IL June 2022 –> August 2022
+### OpenFiGi ETL Pipeline  
+Chicago, IL June 2022 –> August 2022  
+  
 • Engineering ETL pipelines that orchestrate database insertion, update, and recall on daily basis automated
 through AWS, ensuring data integrity by overcoming API design flaws at minimum costs
 • Maps vendor-symbol to Bloomberg’s global FiGi, supported over 80000 new instruments across Equity, ETF, UIT, Mutual Funds, and Index 
