@@ -1,12 +1,22 @@
 ## Welcome to Ryan Liao's Portfolio
-### Project 1: Divvy bike #3: Real Time Intellegence System
+### Divvy bike #3: Real Time Intellegence System
 Chicago, IL July 2022 –> Now (In Progress)   
      
 Taking the divvy-dock-balancing challenge to the next level. Leverage the power of AWS SageMaker to deliver real-time solutions to Divvy's biggest challenge.   
 
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Divvy%20RTIS%20BluePrint.png)
 
-### [Project 2: EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy_Time_Series)
+### OpenFiGi ETL Pipeline
+Chicago, IL June 2022 –> August 2022
+• Engineering ETL pipelines that orchestrate database insertion, update, and recall on daily basis automated
+through AWS, ensuring data integrity by overcoming API design flaws at minimum costs
+• Maps vendor-symbol to Bloomberg’s global FiGi, supported over 80000 new instruments across Equity, ETF, UIT, Mutual Funds, and Index 
+• Design and implement validation pipelines that quantify mapping reliability, then conducted Anomaly
+Detection using Clustering Analysis for mapping Failure Prediction, identified over 70% of the mapping errors
+
+![flowchart](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/openFiGi_0_flow_chart.png)
+
+### [EVE-Online BigData Project](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022    
 [Get this Data on Kaggle](https://www.kaggle.com/datasets/leonidasliao/eveonline-tradingwar) 
 - Create databases on Hadoop, and Google Storage that contains over 200Gs of data to be analyzed on PySpark through virtual machine clusters on Google Dataproc
@@ -18,7 +28,7 @@ Taking the divvy-dock-balancing challenge to the next level. Leverage the power 
 
 ![data_eng](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/data%20eng.png)
 
-### [Project 3: Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy_Time_Series)
+### [Divvy bike #2: Time Series Forecasting](https://github.com/Ryan47Liao/Divvy_Time_Series)
   Chicago, IL Apr 2022 –> June 2022   
 [Get this Data on Kaggle](https://www.kaggle.com/datasets/leonidasliao/divvy-station-dock-capacity-time-series-forecast)
 - Conduct thorough time series EDA on its trend, intervention, outliers, stationarity, seasonality, and forecastability to guide and engineer data for better model performance
@@ -33,7 +43,7 @@ Taking the divvy-dock-balancing challenge to the next level. Leverage the power 
 ![InterventionModel](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Intervention_modeling.png)
 
 
-### [Project 4: Divvy bike #1: Dock Balancing Analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
+### [Divvy bike #1: Dock Balancing Analysis](https://github.com/Ryan47Liao/Divvy-Bike-Dock-Balancing-Analysis)
   Chicago, IL Jan 2022 –> Apr 2022
 - Converted structured travel history into graphs and generated network graphs using Networkx, visualized user
 travel patterns to identify potential communities suffering from bike balancing problems, and pinpoint top
@@ -49,7 +59,7 @@ client-ready visualization and solution that has an NPV equivalent to 36% annual
 
 ![Capacity change over time](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/CAP.gif)
 
-### [Project 5：Yelp's recommendation system](https://github.com/Ryan47Liao/Yelp-Recommendation-System)
+### [Yelp's recommendation system](https://github.com/Ryan47Liao/Yelp-Recommendation-System)
   Chicago, IL Jan 2022 –> Apr 2022
 - Built databases and environments on remote servers using Hadoop through Ubuntu to facilitate teamwork
 - Reprogrammed feature engineering pipeline through NumPy vectorization and programming techniques to
@@ -60,7 +70,7 @@ guided the generation of time-related features
 ![Yelp workflow](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Yelp.png)
 ![Database](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/RCC.png)
 
-### [Project 6: Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
+### [Realtime Intelligent Crypto Trading System](https://github.com/Ryan47Liao/Realtime_intelligent_trading_system)
   Chicago, IL Jan 2022 –> Apr 2022
 - Collected streaming data from social media using python sockets, API requests, selenium, and beautiful soup
 to build a database to explore correlation with Bitcoin prices
