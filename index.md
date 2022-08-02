@@ -2,18 +2,17 @@
 ### Divvy bike #3: Real Time Intellegence System
 Chicago, IL July 2022 –> Now (In Progress)   
      
-Taking the divvy-dock-balancing challenge to the next level. Leverage the power of AWS SageMaker to deliver real-time solutions to Divvy's biggest challenge.   
+Taking the divvy-dock-balancing challenge to the next level:  
+Leverage the power of AWS SageMaker to deliver **real-time** solutions to Divvy's biggest challenge.   
 
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Divvy%20RTIS%20BluePrint.png)
 
 ### OpenFiGi ETL Pipeline  
 Chicago, IL June 2022 –> August 2022  
   
-• Engineering ETL pipelines that orchestrate database insertion, update, and recall on daily basis automated
-through AWS, ensuring data integrity by overcoming API design flaws at minimum costs
-• Maps vendor-symbol to Bloomberg’s global FiGi, supported over 80000 new instruments across Equity, ETF, UIT, Mutual Funds, and Index 
-• Design and implement validation pipelines that quantify mapping reliability, then conducted Anomaly
-Detection using Clustering Analysis for mapping Failure Prediction, identified over 70% of the mapping errors
+• Engineering ETL pipelines that orchestrate database insertion, update, and recall on daily basis automated through AWS, ensuring data integrity by overcoming API design flaws at minimum costs  
+• Maps vendor-symbol to Bloomberg’s global FiGi, supported over 80000 new instruments across Equity, ETF, UIT, Mutual Funds, and Index   
+• Design and implement validation pipelines that quantify mapping reliability, then conducted Anomaly Detection using Clustering Analysis for mapping Failure Prediction, identified over 70% of the mapping errors  
 
 ![flowchart](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/openFiGi_0_flow_chart.png)
 
