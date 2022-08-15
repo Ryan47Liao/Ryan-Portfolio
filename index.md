@@ -1,11 +1,11 @@
 ## Welcome to Ryan Liao's Portfolio
-### Divvy bike #3: Real Time Intellegence System
-Chicago, IL July 2022 –> Now (In Progress)   
-     
-Taking the divvy-dock-balancing challenge to the next level:  
-Leverage the power of AWS SageMaker to deliver **real-time** solutions to Divvy's biggest challenge.   
+### Basis Forecasting Machine Learning Operation
+Chicago, IL July 2022 –> Septembr 2022    
 
-![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/Divvy%20RTIS%20BluePrint.png)
+- Plan, analysis, design, implement and maintain scalable data ETL pipelines from end-to-end that extract, clean and engineer data to be feed into AWS-SageMaker 
+- Automate training, deploying and evaluating metrics agaisnt industry standards with latest data using Crontab on AWS-EC2 
+- Tuning State of the art DeepAR models to achieve a model which has error 40% fewer than the industry standards 
+![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/DeepAR%20ETL%20Pipeline%20(1).png)
 
 ### OpenFiGi ETL Pipeline  
 Chicago, IL June 2022 –> August 2022  
