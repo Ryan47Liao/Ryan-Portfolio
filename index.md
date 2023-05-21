@@ -1,10 +1,29 @@
 ## Welcome to Ryan Liao's Portfolio
+### Futures Options Data Product 
+Chicago, IL Oct 2022 –> Jun 2023
+  
+- Spearheaded a significant data transformation project, converting historical futures options data into a high-revenue data product (approx. $200K p.a.), solidifying Barchart's position in the financial data market
+- Devised an original mathematical theorem to capture asset price relationships through rigorous data analysis, establishing the fundamental algorithm for advanced data cleaning and quality enhancement
+  
+![futuresOptionsBluePrint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/FuturesOptions.png)
+![futuresOptionsERD](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/FuturesOptionsERD.png)
+
+
+### pgDispatcher Parallel Computing Framework
+Chicago, IL Feb 2023 –> May 2023   
+  
+- Developed and packaged 'pgDispatcher', a serverless framework using PostgreSQL Database and AWS autoscaling EC2 instances, into a Python library for efficient multiprocessing management
+- Accelerated data cleaning jobs from a 2-year timeline to 2 days using docker on an auto-scaling cluster with 200 instances and ensured knowledge transfer through comprehensive documentation and workshops
+
+![pgDispatcherblueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/pgDispatcher.png)
+
 ### Basis Forecasting Machine Learning Operation
 Chicago, IL July 2022 –> Septembr 2022    
 
 - Plan, analysis, design, implement and maintain scalable data ETL pipelines from end-to-end that extract, clean and engineer data to be feed into AWS-SageMaker 
 - Automate training, deploying and evaluating metrics agaisnt industry standards with latest data using Crontab on AWS-EC2 
 - Tuning State of the art DeepAR models to achieve a model which has error 40% fewer than the industry standards 
+  
 ![blueprint](https://raw.githubusercontent.com/Ryan47Liao/Demo/main/DeepAR%20ETL%20Pipeline%20(1).png)
 
 ### OpenFiGi ETL Pipeline  
